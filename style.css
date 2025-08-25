@@ -3,6 +3,9 @@
     padding: 0;
     box-sizing: border-box;
 }
+body{
+    background-color: #1e0b30;
+}    
 html {
   scroll-behavior: smooth;
 }
@@ -198,5 +201,6 @@ footer::after {
   .footer-content h2 { font-size: 1.25rem; }
   .company { font-size: 1.1rem; }
 }
+
 
 
